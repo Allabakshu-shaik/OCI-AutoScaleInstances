@@ -14,8 +14,11 @@ Create a root level policy, giving your dynamic group permission to manage all r
 allow dynamic-group Autoscaling to manage all-resources in tenancy
 Login to your instance using an SSH connection
 run the following commands:
+
 wget https://raw.githubusercontent.com/AnykeyNL/OCI-AutoScale/master/install.sh
 bash install.sh
+
+
 If this is the first time you are using the Autoscaling script, go to the OCI-Autoscale directory and run the following command:
 python3 CreateNameSpaces.py
 
