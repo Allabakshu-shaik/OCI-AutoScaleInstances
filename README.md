@@ -15,7 +15,7 @@ allow dynamic-group Autoscaling to manage all-resources in tenancy
 Login to your instance using an SSH connection
 run the following commands:
 
-wget https://raw.githubusercontent.com/AnykeyNL/OCI-AutoScale/master/install.sh
+wget https://github.com/Allabakshu-shaik/OCI-AutoScaleInstances/blob/main/install.sh
 bash install.sh
 
 
