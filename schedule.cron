@@ -1,0 +1,1 @@
+* * * * * /usr/bin/python3 /root/OCI-AutoScale/AutoScaleInstances.py >> /root/OCI-AutoScale/job_log.out
