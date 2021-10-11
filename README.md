@@ -16,6 +16,7 @@ Login to your instance using an SSH connection
 run the following commands:
 
 wget https://github.com/Allabakshu-shaik/OCI-AutoScaleInstances/blob/main/install.sh
+ 
 bash install.sh
 
 
