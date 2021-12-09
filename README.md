@@ -1,5 +1,5 @@
 # OCI-AutoScaleInstances
-Auto scale the VM instances of OCI based on time frame ( ex:  10:20-10:25; start at - 10:20 and stop at - 10:25 )
+Auto scale the VM instances of OCI,  based on time frame ( ex:  10:20-10:25; start at - 10:20 and stop at - 10:25 )
 Welcome to the Scheduled Auto Scaling Script for OCI (Oracle Cloud Infrastructure).
 
 The AutoScaleInstances script: A single Auto Scaling script for all OCI resources that support power on/off operations.
