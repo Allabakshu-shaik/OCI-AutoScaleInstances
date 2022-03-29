@@ -1,5 +1,6 @@
 #!/home/opc/py36env/bin/python
 #################################################################################################################
+#################################################################################################################
 # OCI - Scheduled Auto Scaling Script
 # Copyright (c) 2016, 2020, Oracle and/or its affiliates.  All rights reserved.
 # This software is licensed to you under the Universal Permissive License (UPL) 1.0 as shown at https://oss.oracle.com/licenses/upl
