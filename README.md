@@ -37,6 +37,8 @@ The value of the tag needs to contain any number of values seperated by ','
 Schedule.AnyDay : 10:25-10:30;10:31-10:33;10:35-10:36;.....
 ![image](https://user-images.githubusercontent.com/26667063/136828324-ba46929c-5f65-4a23-b3ae-3da20dc4ae89.png)
 
+test
+
 
  
 
