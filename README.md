@@ -6,6 +6,8 @@ The AutoScaleInstances script: A single Auto Scaling script for all OCI resource
 # Supported services
 Compute VMs: On/Off
 
+###############################
+
 ################################
 Create a free-tier compute instance using the Autonomous Linux 7.8 image
 Create a Dynamic Group called Autoscaling and add the OCID of your instance to the group, using this command:
